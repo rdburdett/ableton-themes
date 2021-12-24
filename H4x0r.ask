@@ -12,7 +12,7 @@
 		<!-- #95DC4D -->
 		<!-- #F9A719 -->
 		<ViewCheckControlEnabledOn Value="#FF9966" />
-		<ScrollbarInnerHandle Value="#202225" />
+		<ScrollbarInnerHandle Value="#41444B" />
 		<ScrollbarInnerTrack Value="#2f3338" />
 		<ScrollbarOuterHandle Value="#41444b" />
 		<ScrollbarOuterTrack Value="#202225" />
@@ -22,7 +22,7 @@
 		<PreferencesTab Value="#35393f" />
 		<SelectionFrame Value="#41444B" />
 		<ControlBackground Value="#292B2F" />
-		<ControlFillHandle Value="#5d6269" />
+		<ControlFillHandle Value="#A9DC76" />
 		<ChosenDefault Value="#A9DC76" />
 		<ChosenRecord Value="#ED4245" />
 		<ChosenPreListen Value="#48DFEA" />
@@ -77,10 +77,10 @@
 		<TakeLaneTrackNotHighlighted Value="#2F3136" />
 		<AutomationColor Value="#ED4245" />
 		<AutomationGrid Value="#131416" />
-		<LoopColor Value="#8a8f9e" />
-		<OffGridLoopColor Value="#50545b" />
-		<ArrangementRulerMarkings Value="#8f9297" />
-		<DetailViewRulerMarkings Value="#8f9297" />
+		<LoopColor Value="#5d6269" />
+		<OffGridLoopColor Value="#3A3C42" />
+		<ArrangementRulerMarkings Value="#5d6269" />
+		<DetailViewRulerMarkings Value="#3A3C42" />
 		<ShadowDark Value="#00000099" />
 		<ShadowLight Value="#292b2fA6" />
 		<DisplayBackground Value="#202225" />
@@ -165,7 +165,8 @@
 		<VelocityZoneCrossfadeRamp Value="#494440" />
 		<SelectorZoneBackground Value="#ED4245" />
 		<SelectorZoneCrossfadeRamp Value="#413538" />
-		<ViewCheckControlEnabledOff Value="#41444B" />
+		<!-- #41444B -->
+		<ViewCheckControlEnabledOff Value="#5d6269" />
 		<ViewCheckControlDisabledOn Value="#adadad" />
 		<ViewCheckControlDisabledOff Value="#2f3136" />
 		<DefaultBlendFactor Value="0.8000000119" />
